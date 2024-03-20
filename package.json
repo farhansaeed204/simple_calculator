@@ -1,6 +1,6 @@
 {
   "name": "fs14-simple-calculator",
-  "version": "1.0.2",
+  "version": "1.2.1",
   "description": "A simple calculator with TypeScript, Node.js and inquirer",
   "main": "index.js",
   "type": "module",
